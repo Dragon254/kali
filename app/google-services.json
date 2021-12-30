@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755268590971",
+    "project_id": "jkali-444e3",
+    "storage_bucket": "jkali-444e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755268590971:android:d0ba49fe14231d5b81b1de",
+        "android_client_info": {
+          "package_name": "com.example.DragonDynasty.jkali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755268590971-gvn0ms1jmjc2bta4snnq7pjplrfnr72r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrHO-yC9Hp10VqNk1y2TWqYdnpB2BPHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755268590971-gvn0ms1jmjc2bta4snnq7pjplrfnr72r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
